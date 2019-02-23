@@ -1,2 +1,4 @@
 # Hello-World
 Initial Repository
+1. Hello, my name is David Beecher. This will be my third programming course at PCC and one of three programming courses I’m taking this semester; the other two courses in progress being C++ and Java. I took introduction to programming while it was still being taught in C++ and have taken Visual Basic, so I have a modicum of experience in C based languages. I am transferring to Cal Poly Pomona this coming fall and am pursuing a double major in mathematics and physics. I’m taking the programming courses this term to meet the qualifications for an AS in programming.
+2. I have no idea what to expect from this course. My experience in programming is limited to building small tools in C++ and designing forms in Visual Basic; Web development is something I have no experience in. I’m not particularly nervous or overwhelmed right now because I don’t expect this class to be incomprehensible or anything I don’t feel like I can manage.
